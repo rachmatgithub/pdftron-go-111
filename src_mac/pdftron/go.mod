@@ -1,3 +1,3 @@
-module github.com/PDFTron/pdftron-go/src_mac/pdftron
+module github.com/rachmatgithub/pdftron-go-111/src_mac/pdftron
 
 go 1.16
